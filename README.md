@@ -1,5 +1,5 @@
 # :boom::bomb::bomb::bomb: BOMBERs :bomb::bomb::bomb::boom:
-SMS/Email/whatsapp Bombers Collection.
+SMS/Email/whatsapp Bombers Collection. All in one bomber that amazing
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) : Working </br>
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) : Not- Working (Or need some modifications) </br>
